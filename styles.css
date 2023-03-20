@@ -22,6 +22,11 @@ body {
     padding: 75px;
 }   
 
+.lanzamientos{
+    font-family: 'Bebas Neue', cursive;
+    padding: 75px;
+}
+
 hr{
     color:#860000 !important;
     height: 3px !important;
